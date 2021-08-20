@@ -1,0 +1,12 @@
+*.npy
+*.swp
+*.mp4
+*.MP4
+*.avi
+*.dat
+*.avi
+*.jpg
+*.xlsx
+*.pt
+*.pth
+checkpoints/

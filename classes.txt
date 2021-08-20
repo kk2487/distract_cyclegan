@@ -1,0 +1,1 @@
+drink,safe,talk_left,talk_right,text_left,text_right
